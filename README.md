@@ -1,0 +1,5 @@
+# WeatherApp
+This website allows users to find the current weather conditions for over 200,000 cities with the help of the Weather API - OpenWeatherMap.
+<br>
+<br>
+<br>
